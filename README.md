@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bluesss30
 - 👀 I’m interested in software engineer,data analysis,surfing,body building
 - 🌱 I’m currently learning React,Django
-- 💞️ I’m looking to collaborate on education project
+- 💞️ I’m looking to collaborate on skateboard project
 - 📫 How to reach me -> iamjasonlan@gmail.com
 
 <!---
